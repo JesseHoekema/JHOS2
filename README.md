@@ -5,5 +5,5 @@
 > This project is almost four years old, and I recommend against installing or using anything from it, as it's all very broken and unsafe! If you do, you do so at your own risk, and we are not liable for any issues with it and devices bricked.
 
 # JHOS2
-copyright Jesse Hoekema
+copyright 
 JHOS 2 
